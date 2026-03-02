@@ -4,6 +4,22 @@ body{
     font-family: Arial;
      background-color: #0F172A
 }
+.co img{
+    height: 300px;
+    width: 400px;
+    border-radius: 30px;
+}
+.co{
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.co h3{
+    color: #38BDF8  ;
+}
 .navbar{
 display:flex;
 justify-content:space-between;
