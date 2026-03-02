@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    color: white;
+    font-family: Arial;
+     background-color: #0F172A
+}
+.navbar{
+display:flex;
+justify-content:space-between;
+padding:20px 50px;
+}
+
+.navbar ul{
+display:flex;
+gap:30px;
+list-style:none;
+}
+
+.navbar a{
+color:white;
+text-decoration:none;
+font-size:18px;
+}
+
+.navbar a:hover{
+color:#38BDF8;
+}
